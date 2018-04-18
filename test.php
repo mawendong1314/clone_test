@@ -1,3 +1,3 @@
-﻿<?php
+<?php
 this is master branch!
 ?>
