@@ -1,5 +1,3 @@
 ﻿<?php
-	echo "git_test";
-	sdlfjdlfkdl
-	sdjms,nds,dns,d
+this is my_branch!
 ?>
